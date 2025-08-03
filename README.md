@@ -4,6 +4,7 @@ Alternative to Wake on LAN that uses a Pico W acting as an HID to send a keypres
 Designed for Circuit Python version 9
 
 Import all the files inside the "Pico" folder to your RPi Pico W.
+    - Enter your WiFi network details into the code.py file
 
 Add the shell command from shellcommand.yaml to your HA configuration.yaml
 
