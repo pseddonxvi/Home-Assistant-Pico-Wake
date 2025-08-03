@@ -7,7 +7,7 @@ Import all the files inside the "Pico" folder to your RPi Pico W.
 
 Add the shell command from shellcommand.yaml to your HA configuration.yaml
 
-Add the wakepc.py file to the same directory as your HA configuration.yaml
+Add your Pico W's IP address to the wakepc.py file and put it in the same directory as your HA configuration.yaml
 
 Then do:
 1. Go to Settings → Automations & Scenes → Automations
