@@ -11,6 +11,8 @@ Import all the files inside the "Pico" folder to your RPi Pico W.
  
 - Enter your WiFi network details into the code.py file
 
+Plug your Pico W into the computer you want to wake
+
 ### Home Assistant setup
 
 Add the shell command from shellcommand.yaml to your HA configuration.yaml
