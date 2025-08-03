@@ -3,12 +3,19 @@ Alternative to Wake on LAN that uses a Pico W acting as an HID to send a keypres
 
 Designed for Circuit Python version 9
 
+### Pico W setup
+
+Install Circuit Python version 9 from here https://circuitpython.org/board/raspberry_pi_pico_w/
+
 Import all the files inside the "Pico" folder to your RPi Pico W.
-        - Enter your WiFi network details into the code.py file
+ 
+- Enter your WiFi network details into the code.py file
+
+### Home Assistant setup
 
 Add the shell command from shellcommand.yaml to your HA configuration.yaml
 
-Add your Pico W's IP address to the wakepc.py file and put it in the same directory as your HA configuration.yaml
+Type your Pico W's IP address into the wakepc.py file and put it in the same directory as your HA configuration.yaml
 
 Then do:
 1. Go to Settings → Automations & Scenes → Automations
