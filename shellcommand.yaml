@@ -1,0 +1,3 @@
+#wake pc
+shell_command:
+    run_wake_script: "python3 /config/wakepc.py"
