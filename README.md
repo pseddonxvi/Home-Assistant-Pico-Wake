@@ -1,5 +1,5 @@
 # Home-Assistant-Pico-Wake
-Alternative to Wake on LAN that uses a Pico W acting as an HID to send a keypress through Home Assistant to wake a computer.
+An alternative to Wake on LAN that uses a Pico W emulating a keypress triggered by a command sent through Home Assistant to wake a computer. 
 
 Designed for Circuit Python version 9
 
