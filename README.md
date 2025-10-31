@@ -5,6 +5,7 @@ An alternative to Wake on LAN that uses a Pico W to emulate a keypress, triggere
 ### Pico W setup
 
 Get CircuitPython version 9 from here: https://circuitpython.org/board/raspberry_pi_pico_w/
+
 S3 download link: https://adafruit-circuit-python.s3.amazonaws.com/bin/raspberry_pi_pico_w/en_US/adafruit-circuitpython-raspberry_pi_pico_w-en_US-9.2.9.uf2
 
 Drag and drop all the files inside the "Pico" folder to your RPi Pico W.
