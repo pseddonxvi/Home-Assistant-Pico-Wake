@@ -13,6 +13,10 @@ Import all the files inside the "Pico" folder to your RPi Pico W.
 
 Plug your Pico W into the computer you want to wake
 
+### Network Setup
+
+Configure a static IP address for your Pico W. This will be what you enter into the /wakepc.py file
+
 ### Home Assistant setup
 
 Add the shell command from shellcommand.yaml to your HA configuration.yaml
