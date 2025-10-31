@@ -1,6 +1,6 @@
 import socket
 
-#enter the IP adress of your Pico W
+#enter the static IP address of your Pico W
 HOST = "YOUR PICO IP HERE"
 PORT = 5000
 
