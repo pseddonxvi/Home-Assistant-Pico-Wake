@@ -1,17 +1,17 @@
 # Home-Assistant-Pico-Wake
-An alternative to Wake on LAN that uses a Pico W emulating a keypress triggered by a command sent through Home Assistant to wake a computer. 
+An alternative to Wake on LAN that uses a Pico W to emulate a keypress, triggered by a command sent through Home Assistant to wake a computer. 
 
-Designed for Circuit Python version 9
 
 ### Pico W setup
 
-Install Circuit Python version 9 from here https://circuitpython.org/board/raspberry_pi_pico_w/
+Get CircuitPython version 9 from here: https://circuitpython.org/board/raspberry_pi_pico_w/
+S3 download link: https://adafruit-circuit-python.s3.amazonaws.com/bin/raspberry_pi_pico_w/en_US/adafruit-circuitpython-raspberry_pi_pico_w-en_US-9.2.9.uf2
 
-Import all the files inside the "Pico" folder to your RPi Pico W.
+Drag and drop all the files inside the "Pico" folder to your RPi Pico W.
  
 - Enter your WiFi network details into the code.py file
 
-Plug your Pico W into the computer you want to wake
+Plug the Pico W into the computer you want to wake
 
 ### Network Setup
 
